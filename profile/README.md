@@ -9,4 +9,4 @@ Go green is a social media network designed to promote sustainability via peer a
 
 
 #### User Workflow
-![User Workflow](./user-workflow.jpeg)
+![User Workflow](/profile/user-workflow.jpeg)
